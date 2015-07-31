@@ -1,0 +1,34 @@
+{
+  "name": "air-elements",
+  "version": "0.0.1",
+  "description": "A set of elements that working with fire, water and earth elements",
+  "main": "air-elements.html",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "five-elements",
+    "air-elements"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FiveElements/air-elements.git"
+  },
+  "homepage": "https://github.com/FiveElements/air-elements",
+  "authors": [
+    "FiveElement Authors"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "gulpfile.js"
+  ],
+  "dependencies": {
+    "air-cascade-validator": "FiveElements/air-cascade-validator#^0.0.1",
+    "air-cruddy": "FiveElements/air-cruddy#^0.0.1",
+    "air-cruddy-cloudy": "FiveElements/air-cruddy-cloudy#^0.0.1"
+  }
+}
