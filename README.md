@@ -1,6 +1,7 @@
 # \<air-elements>
 Polymer Air Elements
-## Components
+
+## Web-Components
 
 | Tag | Build Status | Description |
 | --- | ------------ | ----------- | 
@@ -41,5 +42,4 @@ de voyage
 * Symboles naturels : plume, encens, fleurs odorantes
 * Type de magie : visualisation, concentration, divination, magie du vent et magie élémentale.
 * -Paralda
-
-## Elements
+ 
