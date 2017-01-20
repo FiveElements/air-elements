@@ -6,6 +6,7 @@ Polymer Air Elements
 | Tag | Build Status | Description |
 | --- | ------------ | ----------- | 
 | [\<air-cascade-validator\>](https://github.com/FiveElements/air-cascade-validator) | [![Build Status](https://travis-ci.org/FiveElements/air-cascade-validator.svg?branch=master)](https://travis-ci.org/FiveElements/air-cascade-validator) | Form Validation
+| \<air-fetch\> | [![Build Status](https://travis-ci.org/FiveElements/air-fetch.svg?branch=master)](https://travis-ci.org/FiveElements/air-fetch) | Fetch Ajax Request
 | [\<air-cruddy\>](https://github.com/FiveElements/air-cruddy)  | [![Build Status](https://travis-ci.org/FiveElements/air-cruddy.svg?branch=master)](https://travis-ci.org/FiveElements/air-cruddy) | CRUD 
 
 
