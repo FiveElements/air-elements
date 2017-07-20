@@ -1,9 +1,8 @@
 # \<air-elements>
-Polymer Air Elements
+Polymer 2 Air Elements  manage some logic
 
 ## Web-Components
-Polymer 2 Elements that manage some logic
-
+ 
 | Tag | Build Status | Description |
 | --- | ------------ | ----------- | 
 | [\<air-cascade-validator\>](https://github.com/FiveElements/air-cascade-validator) | [![Build Status](https://travis-ci.org/FiveElements/air-cascade-validator.svg?branch=master)](https://travis-ci.org/FiveElements/air-cascade-validator) | Form Validation
