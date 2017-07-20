@@ -11,7 +11,7 @@ Polymer 2 Air Elements  manage some logic
 
 
 
-## Description
+## Description Air Elements
 L’Air : cet élément en revanche n’est pas aussi caractéristique que les deux autres qui forment le réel couple de la bipolarité élémentaire. L’Air est au contraire un élément médiateur entre l’Eau et le Feu, permettant la circulation des énergies entre eux deux, et leur mutuelle cohésion lorsqu’ils sont en présence l’un de l’autre. Il tempère également les excès du Feu et de l’Eau, violents par nature considérés isolément. L’Air serait donc, grâce à eux dans lequel ils se diluent, tiédeur et humidité ; deux termes qui, pour les horticulteurs, sont synonymes de fécondité, de génération, et de luxuriance! Vous aurez donc compris le rôle fondamental de l’élément Air dans la Création sans lequel nulle vie ne serait possible. Le bavardage, la vantardise, la distraction, la dissipation, l’inconstance, mais aussi l’application, la joie, l’habileté, la cordialité, l’optimisme, sont propres à l’Air. Cependant sa vertu symbolique mais cardinale serait très certainement la quatorzième lame du Tarot de Marseille : LA TEMPERANCE.
 
 ### Charactéristique
