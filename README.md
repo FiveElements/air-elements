@@ -1,5 +1,5 @@
 # \<air-elements>
-Polymer 2 Air Elements  manage some logic
+Polymer 2 Air Elements  manage some logic like requests management or validation.
 
 ## Web-Components
  
