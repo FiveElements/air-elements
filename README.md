@@ -2,6 +2,7 @@
 Polymer Air Elements
 
 ## Web-Components
+Polymer 2 Elements that manage some logic
 
 | Tag | Build Status | Description |
 | --- | ------------ | ----------- | 
