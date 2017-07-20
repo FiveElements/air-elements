@@ -29,6 +29,6 @@
   "dependencies": {
     "air-cascade-validator": "FiveElements/air-cascade-validator#^2.0.0",
     "air-cruddy": "FiveElements/air-cruddy#^2.0.0",
-    "air-fetch": "FiveElements/air-fetch#^0.0.1"
+    "air-fetch": "FiveElements/air-fetch#^2.0.0"
   }
 }
